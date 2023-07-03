@@ -14,9 +14,3 @@ Install Selenium package using,
 ```
 pip install selenium
 ```
-
-#### Example run
-
-
-https://github.com/SamerArkab/Auto-Register-to-Courses/assets/80578540/0d7bb31c-5c5d-43e3-be2a-c1ad55f7d162
-
