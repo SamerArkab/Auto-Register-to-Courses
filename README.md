@@ -14,7 +14,6 @@ Install Selenium package using,
 ```
 pip install selenium
 ```
-<br>
 
 #### Example run
 
